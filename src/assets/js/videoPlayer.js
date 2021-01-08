@@ -1,4 +1,3 @@
-import { response } from "express";
 import getBlobDuration from "get-blob-duration";
 /* eslint-disable quotes */
 const videoContainer = document.getElementById("jsVideoPlayer");
